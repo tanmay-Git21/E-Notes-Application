@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/* Custom background color */
+.bg-custom {
+    background-color: black;
+}
+
+/* Adjusting the font size of nav links */
+.navbar .nav-item .nav-link {
+    font-size: 20px;
+}
+
+/* Hover effect for nav links */
+.navbar .nav-item .nav-link:hover {
+    background-color: black; /* Background color on hover */
+    color: white;           /* Text color on hover */
+    border-radius: 10px;    /* Rounded corners */
+}
+
+	
+					
